@@ -1,4 +1,4 @@
-#Data Visualization with Python
+# Data Visualization with Python
 
 ## Built With
 
@@ -6,4 +6,4 @@
 
 ## Acknowledgments
 
-* A special thank you to Eric Matthes, author of Python Crash Course.
+* A special thank you to *Eric Matthes*, author of *Python Crash Course*.
