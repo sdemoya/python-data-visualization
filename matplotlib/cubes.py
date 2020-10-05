@@ -10,7 +10,7 @@ plt.style.use('fivethirtyeight')
 fig, ax = plt.subplots()
 # fig represents the entire figure
 # ax represents a single plot within the figure
-ax.scatter(x_values, y_values, c=y_values, cmap.plt.com.Blues, s=15)
+ax.scatter(x_values, y_values, c=y_values, cmap=plt.cm.Blues, s=15)
 
 # Set titles
 ax.set_title('Cubed Numbers', fontsize=24)
@@ -26,4 +26,4 @@ plt.show()
 
 # Automatically saves plot to a file and
 # trims extra whitespace from the figure.
-plt.savefig('cubes.png', bbox_inches'tight')
+plt.savefig('cubes.png', bbox_inches='tight')
