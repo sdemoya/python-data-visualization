@@ -23,7 +23,3 @@ ax.axis([0, 5000, 0, 125000000000])
 
 # Open figure in Matplotlib's viewer
 plt.show()
-
-# Automatically saves plot to a file and
-# trims extra whitespace from the figure.
-plt.savefig('cubes.png', bbox_inches='tight')
