@@ -11,9 +11,9 @@ a screen shot of the visualization in the matplotlib viewer for quick reference.
 *Ploty* will be used to create a set of interactive visualizations.
 
 ## Dependencies
--Python
--Matplotlib
--Ploty
+- Python  
+- Matplotlib  
+- Ploty  
 
 ## Contributing
 I will mostly likely not accept any contributions due to the nature of this
