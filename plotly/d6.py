@@ -1,11 +1,10 @@
-from die import Die
+from die_class import Die
 from plotly.graph_objs import Bar, Layout
 from plotly import offline
 
 
-#Create dice.
+#Create a D6.
 die = Die()
-die2 = Die()
 
 #Create a list to store roll results.
 results = []
